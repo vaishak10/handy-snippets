@@ -10,7 +10,7 @@
 
 | Methdod 1 | Method 2 |
 | ----------- | ----------- |
-| [Regex match](/script1.js) | [Regex with split](/script2.js) |
+| [Regex match](script1.js) | [Regex with split](script2.js) |
 
 
 
