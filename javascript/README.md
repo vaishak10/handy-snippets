@@ -1,3 +1,3 @@
 # Sinppet contents
 
-1. [Split on uppercase](javascript/split-on-uppercase)
+1. [Split on uppercase](split-on-uppercase)
