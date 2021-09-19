@@ -13,4 +13,8 @@
 | [Regex match](script1.js) | [Regex with split](script2.js) |
 
 
+## Materials 
+
+1. [regex101](https://regex101.com/) - To check whether the regex pattern matches the string 
+
 
