@@ -1,3 +1,4 @@
 # Sinppet contents
 
-1. [Split on uppercase](split-on-uppercase)
+1. [Reverse a string](String-Reverse)
+2. [Split on uppercase](split-on-uppercase)
