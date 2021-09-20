@@ -2,7 +2,7 @@
 
 **<u>Aim</u>**: Capitalize the first letter of the words in a sentence.
 
-**Input**: `what is your name ?`
+**Input**: `what is your name ?` <br>
 **Output**: `What Is Your Name ?`
 
 **Solution**: 
