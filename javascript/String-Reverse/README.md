@@ -12,7 +12,7 @@ const reversedStr = str.split('').reverse().join('');
 console.log(reversedStr);
 ```
 
-Let's break down the working of the: `str.split('').reverse().join('')`
+Let's break down the working of `str.split('').reverse().join('')`
 ```
 1. 'English'.split('') ==>  ['E','n','g','l','i','s','h']
 2. ['E','n','g','l','i','s','h'].reverse() ==> ['h', 's', 'i', 'l', 'g', 'n', 'E'];
