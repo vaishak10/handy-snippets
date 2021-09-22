@@ -16,7 +16,7 @@ console.log(matches?.length || 0);
 In our case, `str.match(/[aeiou]/gi)` returns `[ 'i', 'I', 'a', 'a', 'i', 'a' ]`
 
 `matches?.length || 0` In this expression we see `?.` which stands for optional chaining. <br>
-If we face a situation where in there are no matched characters match returns nullish value. In order to avoid it we place `?.`before `matches` making sure `length` is not set to a invalid value ,for it to throw error. 
+If we face a situation where in there are no matched characters, match returns nullish value. In order to avoid it, we place `?.`  before `matches` making sure `length` is not set to a invalid value ,for it to throw error. 
 
 >Generally when a value does'nt exist before `?.` the value is evaluated to `undefined`. 
 
