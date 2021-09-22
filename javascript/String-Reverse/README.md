@@ -2,7 +2,7 @@
 
 **<u>Aim</u>**: Given a string i.e., 'ABC', you need to return 'CBA'.<br>
 
-**Input**: `ABC`.
+**Input**: `ABC`. <br>
 **Output**: `CBA`.
 
 **Solution**: 

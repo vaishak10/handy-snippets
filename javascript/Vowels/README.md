@@ -2,7 +2,7 @@
 
 **<u>Aim</u>**: Given a string consisting of 0 or more vowels, return the total count of vowels in the string.
 
-**Input**: `Hi, I am Vaishak`.
+**Input**: `Hi, I am Vaishak`.<br>
 **Output**: `6`.
 
 **Solution**: 
