@@ -7,3 +7,4 @@
 5. [Vowels](Vowels)
 6. [Palindrome](Palindrome)
 7. [Chunk Problem](Chunk-Problem)
+8. [Sum of array values](Sum-Of-Array)
