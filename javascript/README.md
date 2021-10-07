@@ -9,3 +9,4 @@
 7. [Chunk Problem](Chunk-Problem)
 8. [Sum of array values](Sum-Of-Array)
 9. [Swap array elements](Swap-array-elements)
+10. [Sort Array](Sort-Array)
